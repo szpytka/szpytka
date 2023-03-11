@@ -1,9 +1,6 @@
 <div align="center">
-<h2> Hi There, Welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h2>
+<h1> Hi There, Welcome to my GitHub profile! <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
   <hr>
-</div>
-
-<h1 align="center">Hi 👋, I'm Jakub Szpytka</h1>
 <h3 align="center">Crafting immersive web experiences with clean code and stunning visuals.</h3>
 
 <h3 align="left">Connect with me:</h3>
@@ -20,3 +17,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=szpytka&show_icons=true&locale=en" alt="szpytka" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=szpytka&" alt="szpytka" /></p>
+
+ </div>
