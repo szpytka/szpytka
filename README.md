@@ -16,5 +16,5 @@
   
 <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=szpytka&&show_icons=true&theme=dark" alt="szpytka stats" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=szpytka&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="szpytka stats" /></p>
+<a href="https://git.io/streak-stats"><img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=szpytka&theme=dark&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="szpytka stats" /></a>
  </div>
